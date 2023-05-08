@@ -1,0 +1,17 @@
+{
+    "Race": ["blacks", "white"],
+    "Behavior": ["negative_emotion", "timidity", "disappointment", "animal", "smell", "anger", 
+"torment", "shame", "lust", "sadness", "rage", "dominant_personality", "violence", "childish",
+"pet", "irritability", "fear", "sexual", "ridicule", "wealthy", "weakness", "nervousness",
+"envy", "aggression", "hate"],
+    "Physical": ["monster", "ugliness", "youth", "appearance", "disgust", "hygiene", "medical_emergency",
+"health"],
+    "Sexual orientation": ["homosexual"],
+    "Class": ["economy", "poor", "stealing"],
+    "Gender": ["women", "feminine"],
+    "Ethnicity": ["immigrant", "arabs", "asians"],
+    "Disablity": ["mental"],
+    "Religion": ["jews", "muslim"],
+    "Politics": ["politics", "war", "government"],
+    "Crime": ["prison", "crime", "terrorism"]
+}
